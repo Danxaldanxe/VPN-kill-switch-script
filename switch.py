@@ -21,7 +21,7 @@ print("""                 ,,,,,,
         '.   `#?..  .       ..'
            -.   .         .-
              ''-.oo,oo.-''
-VPN kill switch by @rek1""")
+VPN kill switch by @rek7""")
 systime = str(time.ctime())
 count = 0
 useragent = {"User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/40.1"}
